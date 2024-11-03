@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins; sans-serif;
+}
+
+body{
+       background:rgb(134, 93, 34)
+
+}
+
+#header{
+width: 70%;
+height: 100vh;
+background-image:url(https://www.google.com/imgres?q%3Dlogo%20of%20a%20hacker%26imgurl%3Dhttps%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F005%2F076%2F592%2Fnon_2x%2Fhacker-mascot-for-sports-and-esports-logo-free-vector.jpg%26imgrefurl%3Dhttps%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fhacking-logo%26docid%3DWljihLra6UbqQM%26tbnid%3D358KtbMGuanehM%26vet%3D12ahUKEwis89fv8K6JAxX8T0EAHTbMCfMQM3oECEoQAA..i%26w%3D980%26h%3D980%26hcb%3D2%26ved%3D2ahUKEwis89fv8K6JAxX8T0EAHTbMCfMQM3oECEoQAA)
+background-size: cover;
+background-position:center;
+
+}
+
+
+
+
+
+
